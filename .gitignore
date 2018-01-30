@@ -1,4 +1,8 @@
 *.pyc
 .project
 .pydevproject
+.idea
+nlopt-2.4.2*
+venv
+env
 __pycache__/
